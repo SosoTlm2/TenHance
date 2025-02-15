@@ -1,14 +1,13 @@
 
-# Vérification de la version Windows (uniquement Windows 10)
 $OSVersion = [System.Environment]::OSVersion.Version
 if ($OSVersion.Major -ne 10) {
-    Write-Host "Ce script est uniquement compatible avec Windows 10." -ForegroundColor Red
+    Write-Host "This script is compatible with Windows 10 only." -ForegroundColor Red
     exit
 }
 
 <#
 .SYNOPSIS
-TenHance - Windows Enhancement Utility - https://github.com/memstechtips/TenHance
+TenHance - Windows Enhancement Utility - https://github.com/SosoTlm2/TenHance
 
 .DESCRIPTION
 TenHance is a PowerShell GUI application designed to optimize and customize Windows 10 systems. 
