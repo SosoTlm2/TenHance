@@ -5,6 +5,7 @@ Welcome to TenHance, a modified version of Winhance for Windows 10 !
 
 # Versions
 [Version 1](https://github.com/SosoTlm2/TenHance/releases/tag/release/)
+[Version 1 (click to download)]([Version 1](https://github.com/SosoTlm2/TenHance/releases/tag/release/TenHance.ps1))
 
  # Install
 To install it, do:
